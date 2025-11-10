@@ -1,0 +1,18 @@
+(Question 1) After reading the options that you just chose, in one sentence, what did you think they did This should give you the main git program, as well as some useful wrappers, such as a simple GUI, and a wrapper with a terminal.
+I believe the initial setup options configure Git's global behavior by setting a preferred text editor for commit messages (like Vim or Nano) and defining the default branch name (like master or main) for new repositories, ensuring a consistent environment for the main Git program and its graphical or terminal wrappers.
+
+(Question 2) Why would a programmer want to use the command line.
+A programmer would want to use the command line because it allows for diverse tooling and provides ease of use for many types of actions that a programmer might want to take.
+
+(Question 3) When you type pwd again, what does the shell print out.
+When you type pwd (which stands for Print Working Directory) again, the shell will print out the full file path to your current location.
+Since the instructions lead you to change your directory to downloads (or another folder), the output will be the absolute path to that specific folder (e.g., /c/Users/YourName/Downloads)
+
+(Question 4) Enabling the ADD README file added a file automatically to your git repository, what file type is it (what
+extension) and what is its contents.
+Enabling the ADD README file adds a file to your Git repository with the following characteristics:
+File Type (Extension): The file is named README and typically has the extension .md (e.g., README.md). This extension signifies a Markdown file.
+Contents: The contents of the README.md file initially contain basic information about the repository, such as:
+The repository name (often as a main heading).
+A brief description, if one was provided during creation.
+It serves as the landing page for the repository, giving other users (and yourself) a quick overview of what the project is and how to use it.
